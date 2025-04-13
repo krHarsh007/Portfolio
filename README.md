@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This website showcases my skills, projects, and experience as a [your profession, e.g., software developer, designer, data analyst].
 
-🔗 **Live Portfolio:** [Visit My Website](https://your-portfolio-link.com)
+🔗 **Live Portfolio:** [Visit My Website](https://krharsh007.github.io/Portfolio/)
 
 ## 🛠️ What’s Inside
 
