@@ -13,7 +13,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 
 ## 📸 Preview
 
-![Portfolio Screenshot](preview-image.png)  
+![Portfolio Screenshot](preview.png)  
 *(You can replace this with an actual screenshot of your site)*
 
 ## 🚧 Tech Stack
