@@ -1,6 +1,6 @@
 # 💼 My Portfolio
 
-Welcome to my personal portfolio! This website showcases my skills, projects, and experience as a [your profession, e.g., software developer, designer, data analyst].
+Welcome to my personal portfolio! This website showcases my skills, projects, and experience as a Web/Frontend Developer.
 
 🔗 **Live Portfolio:** [Visit My Website](https://krharsh007.github.io/Portfolio/)
 
@@ -14,7 +14,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, an
 ## 📸 Preview
 
 ![Portfolio Screenshot](preview.png)  
-*(You can replace this with an actual screenshot of your site)*
+
 
 ## 🚧 Tech Stack
 
